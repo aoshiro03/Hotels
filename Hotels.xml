@@ -10,7 +10,7 @@
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearestAirport>Skey Harbor</NearestAirport>
+			<NearstAirport>Skey Harbor</NearstAirport>
 		</Address>
 		<Rating>4.2</Rating>
 	</Hotel>
@@ -24,7 +24,7 @@
 			<City>Atlanta</City>
 			<State>GA</State>
 			<Zip>30303</Zip>
-			<NearestAirport>Hartsfield-Jackson Atlanta International Airport</NearestAirport>
+			<NearstAirport>Hartsfield-Jackson Atlanta International Airport</NearstAirport>
 		</Address>
 		<Rating>4.0</Rating>
 	</Hotel>
@@ -38,7 +38,7 @@
 			<City>Los Angeles</City>
 			<State>CA</State>
 			<Zip>90045</Zip>
-			<NearestAirport>Los Angeles International Airport</NearestAirport>
+			<NearstAirport>Los Angeles International Airport</NearstAirport>
 		</Address>
 		<Rating>3.0</Rating>
 	</Hotel>
@@ -52,7 +52,7 @@
 			<City>Irving</City>
 			<State>TX</State>
 			<Zip>75063</Zip>
-			<NearestAirport>Dallas Flort Worth International Airport</NearestAirport>
+			<NearstAirport>Dallas Flort Worth International Airport</NearstAirport>
 		</Address>
 		<Rating>4.5</Rating>
 	</Hotel>
@@ -66,7 +66,7 @@
 			<City>Denver</City>
 			<State>CO</State>
 			<Zip>80204</Zip>
-			<NearestAirport>Denver International Airport</NearestAirport>
+			<NearstAirport>Denver International Airport</NearstAirport>
 		</Address>
 		<Rating>4.5</Rating>
 	</Hotel>
@@ -81,7 +81,7 @@
 			<City>Rosemont</City>
 			<State>IL</State>
 			<Zip>60018</Zip>
-			<NearestAirport>O'Hare International Airport</NearestAirport>
+			<NearstAirport>O'Hare International Airport</NearstAirport>
 		</Address>
 		<Rating>4.0</Rating>
 	</Hotel>
@@ -96,7 +96,7 @@
 			<City>Queens</City>
 			<State>NY</State>
 			<Zip>11436</Zip>
-			<NearestAirport>John F. Kennedy International Airport</NearestAirport>
+			<NearstAirport>John F. Kennedy International Airport</NearstAirport>
 		</Address>
 	</Hotel>
 
@@ -109,7 +109,7 @@
 			<City>Orlando</City>
 			<State>FL</State>
 			<Zip>32812</Zip>
-			<NearestAirport>Orlando International Airport</NearestAirport>
+			<NearstAirport>Orlando International Airport</NearstAirport>
 		</Address>
 		<Rating>5.0</Rating>
 	</Hotel>
@@ -125,7 +125,7 @@
 			<City>Las Vegas</City>
 			<State>NV</State>
 			<Zip>89109</Zip>
-			<NearestAirport>Harry Reid International Airport</NearestAirport>
+			<NearstAirport>Harry Reid International Airport</NearstAirport>
 		</Address>
 		<Rating>4.0</Rating>
 	</Hotel>
@@ -139,7 +139,7 @@
 			<City>Miami Springs</City>
 			<State>FL</State>
 			<Zip>33166</Zip>
-			<NearestAirport>Maiami International Airport</NearestAirport>
+			<NearstAirport>Maiami International Airport</NearstAirport>
 		</Address>
 	</Hotel>
 </Hotels>
