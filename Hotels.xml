@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels>
-	<Hotel Rating="4.2">
+<Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml">
+<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
