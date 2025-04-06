@@ -1,145 +1,127 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-	<Hotel>
+	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address>
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearstAirport>Skey Harbor</NearstAirport>
 		</Address>
-		<Rating>4.2</Rating>
 	</Hotel>
 	
-	<Hotel>
+	<Hotel Rating="4.0">
 		<Name>Ac Hotel Atlanta Downtown</Name>
 		<Phone>844-631-0595</Phone>
-		<Address>
+		<Address NearstAirport="Hartsfield-Jackson Atlanta International Airport">
 			<Number>101</Number>
 			<Street>Andrew Young Intl Blvd Nw</Street>
 			<City>Atlanta</City>
 			<State>GA</State>
 			<Zip>30303</Zip>
-			<NearstAirport>Hartsfield-Jackson Atlanta International Airport</NearstAirport>
 		</Address>
-		<Rating>4.0</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating="3.0">
 		<Name>Holiday Inn Express Los Angeles</Name>
 		<Phone>310 645 7700</Phone>
-		<Address>
+		<Address NearstAirport="Los Angeles International Airport">
 			<Number>8620</Number>
 			<Street>Airport Boulevard</Street>
 			<City>Los Angeles</City>
 			<State>CA</State>
 			<Zip>90045</Zip>
-			<NearstAirport>Los Angeles International Airport</NearstAirport>
 		</Address>
-		<Rating>3.0</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating="4.5">
 		<Name>Home2 Suites by Hilton Irving</Name>
 		<Phone>855-618-4702</Phone>
-		<Address>
+		<Address NearstAirport="Dallas Flort Worth International Airport">
 			<Number>4700</Number>
 			<Street>North Plaza Drive</Street>
 			<City>Irving</City>
 			<State>TX</State>
 			<Zip>75063</Zip>
-			<NearstAirport>Dallas Flort Worth International Airport</NearstAirport>
 		</Address>
-		<Rating>4.5</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating="4.5">
 		<Name>Springhill Suites Denver Downtown</Name>
 		<Phone>844-631-0595</Phone>
-		<Address>
+		<Address NearstAirport="Denver International Airport">
 			<Number>1190</Number>
 			<Street>Auraria Parkway</Street>
 			<City>Denver</City>
 			<State>CO</State>
 			<Zip>80204</Zip>
-			<NearstAirport>Denver International Airport</NearstAirport>
 		</Address>
-		<Rating>4.5</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating="4.0">
 		<Name>Sheraton Suites Chicago O'Hare</Name>
 		<Phone>800-325-3535</Phone>
 		<Phone>847-699-0671</Phone>
-		<Address>
+		<Address NearstAirport="O'Hare International Airport">
 			<Number>6501</Number>
 			<Street>Mannheim Road</Street>
 			<City>Rosemont</City>
 			<State>IL</State>
 			<Zip>60018</Zip>
-			<NearstAirport>O'Hare International Airport</NearstAirport>
 		</Address>
-		<Rating>4.0</Rating>
 	</Hotel>
 
 	<Hotel>
 		<Name>Marriott New York JFK Airport</Name>
 		<Phone>800-228-9290</Phone>
 		<Phone>718-848-2882</Phone>
-		<Address>
+		<Address NearstAirport="John F. Kennedy International Airport">
 			<Number>134-25</Number>
 			<Street>142nd Street</Street>
 			<City>Queens</City>
 			<State>NY</State>
 			<Zip>11436</Zip>
-			<NearstAirport>John F. Kennedy International Airport</NearstAirport>
 		</Address>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating="5.0">
 		<Name>Hyatt House Orlando Airport</Name>
 		<Phone>407-858-0801</Phone>
-		<Address>
+		<Address NearstAirport="Orlando International Airport">
 			<Number>5472</Number>
 			<Street>Gateway Village Cir</Street>
 			<City>Orlando</City>
 			<State>FL</State>
 			<Zip>32812</Zip>
-			<NearstAirport>Orlando International Airport</NearstAirport>
 		</Address>
-		<Rating>5.0</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating="4.0">
 		<Name>Bellagio Las Vegas</Name>
 		<Phone>888-987-6667</Phone>
 		<Phone>702-693-7111</Phone>
 		<Phone>888-744-7687</Phone>
-		<Address>
+		<Address NearstAirport="Harry Reid International Airport">
 			<Number>3600</Number>
 			<Street>S Las Vegas Blvd</Street>
 			<City>Las Vegas</City>
 			<State>NV</State>
 			<Zip>89109</Zip>
-			<NearstAirport>Harry Reid International Airport</NearstAirport>
 		</Address>
-		<Rating>4.0</Rating>
 	</Hotel>
 
 	<Hotel>
-		<Name>EB Hotel Maiami Airport</Name>
+		<Name>EB Hotel Miami Airport</Name>
 		<Phone>786-409-6498</Phone>
-		<Address>
+		<Address NearstAirport="Miami International Airport">
 			<Number>4299</Number>
 			<Street>NW 36th St</Street>
-			<City>Maiami Springs</City>
+			<City>Miami Springs</City>
 			<State>FL</State>
 			<Zip>33166</Zip>
-			<NearstAirport>Maiami International Airport</NearstAirport>
 		</Address>
 	</Hotel>
 </Hotels>
