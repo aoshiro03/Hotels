@@ -124,5 +124,17 @@
 			<Zip>33166</Zip>
 		</Address>
 	</Hotel>
+
+	<Hotel Rating="3.8">
+		<Name>Sheraton San Diego Resort</Name>
+		<Phone>844-631-0595</Phone>
+		<Address NearstAirport="San Diego International Airport">
+			<Number>1380</Number>
+			<Street>Harbor Island Drive</Street>
+			<City>San Diego</City>
+			<State>CA</State>
+			<Zip>92101</Zip>
+		</Address>
+	</Hotel>
 </Hotels>
 
